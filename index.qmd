@@ -10,4 +10,4 @@ I am interested in the fields of Mathematics and Computer Science, and hoping to
 
 As a student, I am constantly striving for personal growth and improvement. I believe in the power of education to make a positive impact on the world, and I am determined to contribute to society in a meaningful way. Whether it is through academic achievements, community involvement, or future career endeavors, I am excited about the possibilities that lie ahead.
 
-I am familiar with languages like `.py`, `.tex` and learning `.typ` and `.r` and hoping to develop my skillsets further in these languages through personal projects and 
+I am familiar with languages like `.py`, `.tex` and learning `.typ` and `.r` and hoping to develop my skillsets further in these languages through personal projects and solving computing problems.
