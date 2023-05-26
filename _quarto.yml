@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Amogh Atwe"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: papers.qmd
+        text: Papers
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    fontsize: 1em
+    mainfont: Arial
+    monofont: SF Mono

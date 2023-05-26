@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "I’m an undergraduate student in TU Eindhoven, studying Applied Mathematics, originally from India."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Please find the papers that I have written, have published and are in the process of being written / published."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Please reach out to me via email: amoghatwe@gmail.com"
+  }
+]
