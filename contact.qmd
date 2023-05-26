@@ -3,3 +3,5 @@ title: "Contact"
 ---
 
 Please reach out to me via email: [amoghatwe@gmail.com](mailto:amoghatwe@gmail.com)
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/amogh-atwe/) and my [GitHub](https://github.com/amoghatwe).

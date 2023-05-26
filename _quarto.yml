@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Amogh Atwe"
+  title: "Amogh Atwe | Portfolio"
   navbar:
     right:
       - href: index.qmd
@@ -12,6 +12,13 @@ website:
         text: Papers
       - href: contact.qmd
         text: Contact
+  page-footer: 
+       left: "This website is hosted by [GitHub Pages](https://pages.github.com/) and made using [Qaurto](https://quarto.org/) - [Light theme](https://bootswatch.com/flatly/) and [Dark theme](https://bootswatch.com/darkly/)."
+       right: 
+        - icon: github
+          href: https://github.com/amoghatwe
+        - icon: linkedin
+          href: https://www.linkedin.com/in/amogh-atwe/
 
 format:
   html:
