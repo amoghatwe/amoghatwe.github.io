@@ -2,4 +2,8 @@
 title: "About me"
 ---
 
-I'm an undergraduate student in [TU Eindhoven](https://tue.nl/), studying Applied Mathematics, originally from India. 
+I'm an undergraduate student at [TU Eindhoven](https://tue.nl/), studying Applied Mathematics, originally from India. 
+
+I am interested in the field of Mathematics and Computer Science, hoping to explore both fields extensively henceforth!
+
+I am familiar with languages like `.py`, `.tex` and learning `.typ` and `.r`.
