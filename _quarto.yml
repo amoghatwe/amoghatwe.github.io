@@ -4,6 +4,9 @@ project:
 
 website:
   title: "Amogh Atwe"
+  search: 
+    location: navbar
+    type: textbox
   navbar:
     right:
       - href: index.qmd
