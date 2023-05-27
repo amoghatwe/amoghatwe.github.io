@@ -1,13 +1,46 @@
----
-title: "About me"
+## <a href="#about"> About me</a>
+
 ---
 
 Hi my name is Amogh Atwe. I am from India. I am a passionate and dedicated learner, and am eager to embark on an exciting educational journey.
 
-Currently, I am pursuing my studies in Bachelor's of Applied Mathematics at [TU Eindhoven](https://tue.nl/). I have always had a deep love for learning, problem solving and a curiosity that drives me to explore new subjects and ideas. 
+Currently, I am pursuing my studies in Bachelor's of Applied Mathematics at [TU Eindhoven](https://tue.nl/){.external target="_blank"}
+. I have always had a deep love for learning, problem solving and a curiosity that drives me to explore new subjects and ideas. 
 
 I am interested in the fields of Mathematics and Computer Science, and hoping to explore both fields extensively in the coming years!
 
 As a student, I am constantly striving for personal growth and improvement. I believe in the power of education to make a positive impact on the world, and I am determined to contribute to society in a meaningful way. Whether it is through academic achievements, community involvement, or future career endeavors, I am excited about the possibilities that lie ahead.
 
-I am familiar with languages like `.py`, `.tex` and learning `.typ` and `.r` and hoping to develop my skillsets further in these languages through personal projects and solving computing problems.
+I am familiar with languages like `.py`, `.tex` and learning [`.typ`](https://github.com/typst/typst){.external target="_blank"}
+and `.r` and hoping to develop my skillsets furtherin these languages through personal projects and solving computing problems.
+
+---
+
+## <a href="#papers"> Papers</a>
+
+*Please find the papers that I have written and have published, and the papers that are in the process of being written and/or published.*
+
+### Published Papers
++ Example paper 1
+    + Details of example paper 1
+
+### In process
++ Example paper 2
+    + Details of example paper 2
+
+---
+
+## <a href="#projects"> Projects</a>
+
+*Please find the projects that I have contributed to, or projects that are in progress. Most projects will be accessible through my GitHub as well.*
+
++ Example Project 1 
+    + Details of Example project 1
+
+---
+
+## <a href="#contact"> Contact me</a>
+
+Please reach out to me via email: [amoghatwe@gmail.com](mailto:amoghatwe@gmail.com){.external target="_blank"}
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/amogh-atwe/){.external target="_blank"} and my [GitHub](https://github.com/amoghatwe){.external target="_blank"}.

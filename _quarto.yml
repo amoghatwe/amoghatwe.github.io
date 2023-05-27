@@ -7,24 +7,32 @@ website:
   search: 
     location: navbar
     type: textbox
-  navbar:
-    right:
-      - href: index.qmd
-        text: Home
-      - href: papers.qmd
-        text: Papers
-      - href: contact.qmd
-        text: Contact
+  
   page-footer: 
-       left: "This website is hosted by [GitHub Pages](https://pages.github.com/) and made using [Qaurto](https://quarto.org/) - [Light theme](https://bootswatch.com/flatly/) and [Dark theme](https://bootswatch.com/darkly/)."
+       left: "This website is hosted on [GitHub Pages](https://pages.github.com/) and made using [Qaurto](https://quarto.org/) - [Light theme](https://bootswatch.com/flatly/) and [Dark theme](https://bootswatch.com/darkly/)."
        right: 
         - icon: github
           href: https://github.com/amoghatwe
         - icon: linkedin
           href: https://www.linkedin.com/in/amogh-atwe/
 
+  navbar:
+    pinned: true
+    search: true
+    right:
+      - text: About Me
+        href: "#about-me"
+      - text: Papers
+        href: "#papers"
+      - text: Projects
+        href: "#my-projects"
+      - text: Contact
+        href: "#contact-me"
+          
+
 format:
   html:
+    smooth-scroll: true
     theme:
       light: flatly
       dark: darkly

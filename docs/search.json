@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About me",
+    "title": "Amogh Atwe",
     "section": "",
-    "text": "Hi my name is Amogh Atwe. I am from India. I am a passionate and dedicated learner, and am eager to embark on an exciting educational journey.\nCurrently, I am pursuing my studies in Bachelor’s of Applied Mathematics at TU Eindhoven. I have always had a deep love for learning, problem solving and a curiosity that drives me to explore new subjects and ideas.\nI am interested in the fields of Mathematics and Computer Science, and hoping to explore both fields extensively in the coming years!\nAs a student, I am constantly striving for personal growth and improvement. I believe in the power of education to make a positive impact on the world, and I am determined to contribute to society in a meaningful way. Whether it is through academic achievements, community involvement, or future career endeavors, I am excited about the possibilities that lie ahead.\nI am familiar with languages like .py, .tex and learning .typ and .r and hoping to develop my skillsets further in these languages through personal projects and solving computing problems."
+    "text": "Hi my name is Amogh Atwe. I am from India. I am a passionate and dedicated learner, and am eager to embark on an exciting educational journey.\nCurrently, I am pursuing my studies in Bachelor’s of Applied Mathematics at TU Eindhoven . I have always had a deep love for learning, problem solving and a curiosity that drives me to explore new subjects and ideas.\nI am interested in the fields of Mathematics and Computer Science, and hoping to explore both fields extensively in the coming years!\nAs a student, I am constantly striving for personal growth and improvement. I believe in the power of education to make a positive impact on the world, and I am determined to contribute to society in a meaningful way. Whether it is through academic achievements, community involvement, or future career endeavors, I am excited about the possibilities that lie ahead.\nI am familiar with languages like .py, .tex and learning .typ and .r and hoping to develop my skillsets furtherin these languages through personal projects and solving computing problems."
   },
   {
     "objectID": "papers.html",
     "href": "papers.html",
     "title": "Papers",
     "section": "",
-    "text": "Please find the papers that I have written and have published, and the papers that are in the process of being written and/or published.\n\nPublished Papers\n\n\nIn process"
+    "text": "Please find the papers that I have written and have published, and the papers that are in the process of being written and/or published.\n\nPublished Papers\n\nExample paper 1\n\nDetails of example paper 1\n\n\n\n\nIn process\n\nExample paper 2\n\nDetails of example paper 2"
   },
   {
     "objectID": "contact.html",
@@ -19,5 +19,110 @@
     "title": "Contact",
     "section": "",
     "text": "Please reach out to me via email: amoghatwe@gmail.com\nYou can also find me on LinkedIn and my GitHub."
+  },
+  {
+    "objectID": "index.html#papers",
+    "href": "index.html#papers",
+    "title": "Amogh Atwe",
+    "section": " Papers",
+    "text": "Papers\nPlease find the papers that I have written and have published, and the papers that are in the process of being written and/or published.\n\nPublished Papers\n\nExample paper 1\n\nDetails of example paper 1\n\n\n\n\nIn process\n\nExample paper 2\n\nDetails of example paper 2"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Amogh Atwe",
+    "section": " Projects",
+    "text": "Projects\nPlease find the projects that I have contributed to, or projects that are in progress. Most projects will be accessible through my GitHub as well.\n\nExample Project 1\n\nDetails of Example project 1"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Amogh Atwe",
+    "section": "Contact ",
+    "text": "Contact \nPlease reach out to me via email: amoghatwe@gmail.com\nYou can also find me on LinkedIn and my GitHub."
+  },
+  {
+    "objectID": "index.html#published-papers",
+    "href": "index.html#published-papers",
+    "title": "About me ",
+    "section": "Published Papers",
+    "text": "Published Papers\n\nExample paper 1\n\nDetails of example paper 1"
+  },
+  {
+    "objectID": "index.html#in-process",
+    "href": "index.html#in-process",
+    "title": "About me ",
+    "section": "In process",
+    "text": "In process\n\nExample paper 2\n\nDetails of example paper 2"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Amogh Atwe",
+    "section": "",
+    "text": "Hi my name is Amogh Atwe. I am from India. I am a passionate and dedicated learner, and am eager to embark on an exciting educational journey.\nCurrently, I am pursuing my studies in Bachelor’s of Applied Mathematics at TU Eindhoven . I have always had a deep love for learning, problem solving and a curiosity that drives me to explore new subjects and ideas.\nI am interested in the fields of Mathematics and Computer Science, and hoping to explore both fields extensively in the coming years!\nAs a student, I am constantly striving for personal growth and improvement. I believe in the power of education to make a positive impact on the world, and I am determined to contribute to society in a meaningful way. Whether it is through academic achievements, community involvement, or future career endeavors, I am excited about the possibilities that lie ahead.\nI am familiar with languages like .py, .tex and learning .typ and .r and hoping to develop my skillsets furtherin these languages through personal projects and solving computing problems."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Please find the projects that I have contributed to, or projects that are in progress. Most projects will be accessible through my GitHub as well.\n\nExample Project 1\n\nDetails of Example project 1"
+  },
+  {
+    "objectID": "index.html#aboutme",
+    "href": "index.html#aboutme",
+    "title": "Amogh Atwe",
+    "section": "",
+    "text": "Hi my name is Amogh Atwe. I am from India. I am a passionate and dedicated learner, and am eager to embark on an exciting educational journey.\nCurrently, I am pursuing my studies in Bachelor’s of Applied Mathematics at TU Eindhoven . I have always had a deep love for learning, problem solving and a curiosity that drives me to explore new subjects and ideas.\nI am interested in the fields of Mathematics and Computer Science, and hoping to explore both fields extensively in the coming years!\nAs a student, I am constantly striving for personal growth and improvement. I believe in the power of education to make a positive impact on the world, and I am determined to contribute to society in a meaningful way. Whether it is through academic achievements, community involvement, or future career endeavors, I am excited about the possibilities that lie ahead.\nI am familiar with languages like .py, .tex and learning .typ and .r and hoping to develop my skillsets further in these languages through personal projects and solving computing problems."
+  },
+  {
+    "objectID": "index.html#projects-browser-compatibility",
+    "href": "index.html#projects-browser-compatibility",
+    "title": "Amogh Atwe",
+    "section": "Projects Browser compatibility",
+    "text": "Projects Browser compatibility\nPlease find the projects that I have contributed to, or projects that are in progress. Most projects will be accessible through my GitHub as well.\n\nExample Project 1\n\nDetails of Example project 1"
+  },
+  {
+    "objectID": "index.html#projects-projects",
+    "href": "index.html#projects-projects",
+    "title": "Amogh Atwe",
+    "section": "Projects Projects",
+    "text": "Projects Projects\nPlease find the projects that I have contributed to, or projects that are in progress. Most projects will be accessible through my GitHub as well.\n\nExample Project 1\n\nDetails of Example project 1"
+  },
+  {
+    "objectID": "index.html#projects-my-projects",
+    "href": "index.html#projects-my-projects",
+    "title": "Amogh Atwe",
+    "section": "Projects My Projects",
+    "text": "Projects My Projects\nPlease find the projects that I have contributed to, or projects that are in progress. Most projects will be accessible through my GitHub as well.\n\nExample Project 1\n\nDetails of Example project 1"
+  },
+  {
+    "objectID": "index.html#my-projects",
+    "href": "index.html#my-projects",
+    "title": "Amogh Atwe",
+    "section": " My Projects",
+    "text": "My Projects\nPlease find the projects that I have contributed to, or projects that are in progress. Most projects will be accessible through my GitHub as well.\n\nExample Project 1\n\nDetails of Example project 1"
+  },
+  {
+    "objectID": "index.html#browser-compatibility",
+    "href": "index.html#browser-compatibility",
+    "title": "Amogh Atwe",
+    "section": "",
+    "text": "Hi my name is Amogh Atwe. I am from India. I am a passionate and dedicated learner, and am eager to embark on an exciting educational journey.\nCurrently, I am pursuing my studies in Bachelor’s of Applied Mathematics at TU Eindhoven . I have always had a deep love for learning, problem solving and a curiosity that drives me to explore new subjects and ideas.\nI am interested in the fields of Mathematics and Computer Science, and hoping to explore both fields extensively in the coming years!\nAs a student, I am constantly striving for personal growth and improvement. I believe in the power of education to make a positive impact on the world, and I am determined to contribute to society in a meaningful way. Whether it is through academic achievements, community involvement, or future career endeavors, I am excited about the possibilities that lie ahead.\nI am familiar with languages like .py, .tex and learning .typ and .r and hoping to develop my skillsets further in these languages through personal projects and solving computing problems."
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Amogh Atwe",
+    "section": " Contact me",
+    "text": "Contact me\nPlease reach out to me via email: amoghatwe@gmail.com\nYou can also find me on LinkedIn and my GitHub."
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Amogh Atwe",
+    "section": "",
+    "text": "My Projects\nPlease find the projects that I have contributed to, or projects that are in progress. Most projects will be accessible through my GitHub as well.\n\nExample Project 1\n\nDetails of Example project 1"
   }
 ]

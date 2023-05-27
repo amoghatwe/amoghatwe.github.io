@@ -5,5 +5,9 @@ title: "Papers"
 *Please find the papers that I have written and have published, and the papers that are in the process of being written and/or published.*
 
 ### Published Papers
++ Example paper 1
+    + Details of example paper 1
 
 ### In process
++ Example paper 2
+    + Details of example paper 2

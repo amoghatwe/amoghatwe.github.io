@@ -46,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
-  "type": "overlay",
+  "type": "textbox",
   "limit": 20,
   "language": {
     "search-no-results-text": "No results",
@@ -60,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -89,6 +90,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link active" href="./papers.html" rel="" target="" aria-current="page">
  <span class="menu-text">Papers</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./projects.html" rel="" target="">
+ <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./contact.html" rel="" target="">
@@ -130,9 +135,21 @@ ul.task-list li input[type="checkbox"] {
 <p><em>Please find the papers that I have written and have published, and the papers that are in the process of being written and/or published.</em></p>
 <section id="published-papers" class="level3">
 <h3 class="anchored" data-anchor-id="published-papers">Published Papers</h3>
+<ul>
+<li>Example paper 1
+<ul>
+<li>Details of example paper 1</li>
+</ul></li>
+</ul>
 </section>
 <section id="in-process" class="level3">
 <h3 class="anchored" data-anchor-id="in-process">In process</h3>
+<ul>
+<li>Example paper 2
+<ul>
+<li>Details of example paper 2</li>
+</ul></li>
+</ul>
 
 
 </section>
@@ -514,4 +531,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
