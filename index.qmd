@@ -1,7 +1,5 @@
 ## <a href="#about"> About me</a>
 
----
-
 Hi my name is Amogh Atwe. I am from India. I am a passionate and dedicated learner, and am eager to embark on an exciting educational journey.
 
 Currently, I am pursuing my studies in Bachelor's of Applied Mathematics at [TU Eindhoven](https://tue.nl/){.external target="_blank"}
@@ -14,30 +12,17 @@ As a student, I am constantly striving for personal growth and improvement. I be
 I am familiar with languages like `.py`, `.tex` and learning [`.typ`](https://github.com/typst/typst){.external target="_blank"}
 and `.r` and hoping to develop my skillsets furtherin these languages through personal projects and solving computing problems.
 
----
-
 ## <a href="#papers"> Papers</a>
 
 *Please find the papers that I have written and have published, and the papers that are in the process of being written and/or published.*
 
 ### Published Papers
-+ Example paper 1
-    + Details of example paper 1
 
 ### In process
-+ Example paper 2
-    + Details of example paper 2
-
----
 
 ## <a href="#projects"> Projects</a>
 
 *Please find the projects that I have contributed to, or projects that are in progress. Most projects will be accessible through my GitHub as well.*
-
-+ Example Project 1 
-    + Details of Example project 1
-
----
 
 ## <a href="#contact"> Contact me</a>
 

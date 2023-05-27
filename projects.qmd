@@ -1,8 +1,0 @@
----
-title: "My Projects"
----
-
-*Please find the projects that I have contributed to, or projects that are in progress. Most projects will be accessible through my GitHub as well.*
-
-+ Example Project 1 
-    + Details of Example project 1
