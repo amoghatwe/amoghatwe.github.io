@@ -40,3 +40,4 @@ format:
     fontsize: 1em
     mainfont: Arial
     monofont: SF Mono
+    linkcolor: black
